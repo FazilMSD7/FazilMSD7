@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FazilMSD7
 - 👀 I’m interested in Python Coding and DBMS
-- 🌱 I’m currently learning BSc Computer science
+- 🌱 I currently completed my Bachelor's Degree in Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - email : fazilmsd7@gmail.com
