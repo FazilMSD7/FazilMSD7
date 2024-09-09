@@ -1,4 +1,4 @@
-👋 Hello there! I'm Muhammed Fazil, a passionate Java developer with 1 year of experience. ☕️
+👋 Hello there! I'm Muhammed Fazil, a passionate Java developer with 1.5 year of experience. ☕️
 
 🚀 I specialize in building scalable and robust applications using Java and related technologies.
 
@@ -6,13 +6,12 @@
 
 🌟 My areas of expertise include:
    - Java SE development
-   - Angular, Typescript
    - Spring Framework (Spring Boot)
-   - Selenium and DevOps
+   - Selenium and DevOps(Jenkins, Instana)
    - RESTful web services
    - Database design and optimization (MySQL)
-   - Test-driven development (JUnit, Mockito)
    - Agile methodologies (Scrum)
+   - ReadyAPI and Jira
 
 📚 I'm always eager to expand my knowledge and keep up with the latest advancements in the Programming and IT ecosystem. I'm passionate about continuous learning and embrace new technologies and tools that can enhance productivity and deliver high-quality solutions.
 
