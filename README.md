@@ -1,22 +1,30 @@
-👋 Hello there! I'm Muhammed Fazil, a passionate Java developer with 1.5 year of experience. ☕️
+👋 Hello there! I'm Muhammed Fazil, a passionate Software Development Engineer in Test (SDET) with 1.5 years of experience. ☕️
 
-🚀 I specialize in building scalable and robust applications using Java and related technologies.
+🚀 I specialize in ensuring the quality and reliability of applications, utilizing Java and related technologies. My role involves developing robust testing frameworks and driving automation to maintain high software standards.
 
-💼 Currently, I work as a System Associate at Infosys, where I collaborate with talented teams to develop innovative software solutions. I have a solid understanding of object-oriented programming principles and design patterns, and I strive to write clean, maintainable code.
+💼 Currently, I am a System Associate at Infosys, where I work alongside skilled teams to design, test, and refine cutting-edge software solutions. My expertise in quality assurance principles and methodologies allows me to contribute to delivering top-notch software.
 
-🌟 My areas of expertise include:
+🌟 In addition to my core SDET skills, I am actively expanding my knowledge in data science. I’m diving into topics such as:
+   - SQL (including advanced SQL techniques)
+   - Python
+   - PowerBI, Tableau
+   - Generative AI
+   - Advanced Excel
+   - Numpy and Pandas
+
+🔧 My technical expertise includes:
    - Java SE development
    - Spring Framework (Spring Boot)
-   - Selenium and DevOps(Jenkins, Instana)
+   - Selenium and DevOps (Jenkins, Instana)
    - RESTful web services
    - Database design and optimization (MySQL)
    - Agile methodologies (Scrum)
    - ReadyAPI and Jira
 
-📚 I'm always eager to expand my knowledge and keep up with the latest advancements in the Programming and IT ecosystem. I'm passionate about continuous learning and embrace new technologies and tools that can enhance productivity and deliver high-quality solutions.
+📚 I am committed to continuous learning and staying updated with the latest advancements in both software testing and data science. Embracing new technologies and tools is a key part of my approach to enhancing productivity and delivering high-quality solutions.
 
-🌐 Besides Java, I also have experience with HTML, CSS, JavaScript, and front-end frameworks like Angular and React. This allows me to work effectively on full-stack projects and collaborate with front-end developers to create seamless user experiences.
+🌐 Beyond Java Testing, I am also delving into data science and analytics, with hands-on experience in Python, SQL, and PowerBI. This expanding skill set complements my full-stack knowledge and enables me to derive actionable insights from data, enhancing project outcomes and driving data-informed decisions.
 
-📫 If you have any questions, suggestions, or exciting projects to collaborate on, feel free to reach out. I'm open to new opportunities and love to connect with fellow developers. Let's build something amazing together!
+📫 If you have any questions, suggestions, or exciting projects to collaborate on, feel free to reach out. I’m open to new opportunities and enjoy connecting with fellow developers. Let’s build something amazing together!
 
-🌟 Check out my repositories below to see some of the projects I've worked on. Don't forget to leave a ⭐️ if you find them helpful or interesting!
+🌟 Check out my repositories below to explore some of the projects I’ve worked on. If you find them helpful or interesting, please leave a ⭐️!
