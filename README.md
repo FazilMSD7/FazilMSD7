@@ -4,14 +4,14 @@
 
 💼 Currently, I am a System Associate at Infosys, where I work alongside skilled teams to design, test, and refine cutting-edge software solutions. My expertise in quality assurance principles and methodologies allows me to contribute to delivering top-notch software.
 
-🌟 In addition to my core SDET skills, I am actively expanding my knowledge in data science. I’m diving into topics such as:
+🌟 In addition to my core SDET skills, I am actively expanding my knowledge in data engineering. I’m diving into topics such as:
    - SQL (including advanced SQL techniques)
    - Python
    - PowerBI
    - PySpark
    - Advanced Excel
    - Numpy and Pandas
-   - Azure DE(Data Factory,Databricks,Synapse Analytics,Data Lake,Devops,Key Vault)
+   - Microsoft Azure DE(Data Factory,Databricks,Synapse Analytics,Data Lake,Devops,Key Vault)
    - Kafka, DBT
 
 🔧 My technical expertise includes:
