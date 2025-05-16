@@ -1,4 +1,4 @@
-👋 Hello there! I'm Muhammed Fazil, a passionate Software Development Engineer in Test (SDET) with 1.5 years of experience. ☕️
+👋 Hello there! I'm Muhammed Fazil, a passionate Software Development Engineer in Test (SDET) with 2.5 years of experience. ☕️
 
 🚀 I specialize in ensuring the quality and reliability of applications, utilizing Java and related technologies. My role involves developing robust testing frameworks and driving automation to maintain high software standards.
 
@@ -7,10 +7,12 @@
 🌟 In addition to my core SDET skills, I am actively expanding my knowledge in data science. I’m diving into topics such as:
    - SQL (including advanced SQL techniques)
    - Python
-   - PowerBI, Tableau
-   - Generative AI
+   - PowerBI
+   - PySpark
    - Advanced Excel
    - Numpy and Pandas
+   - Azure DE(Data Factory,Databricks,Synapse Analytics,Data Lake,Devops,Key Vault)
+   - Kafka, DBT
 
 🔧 My technical expertise includes:
    - Java SE development
@@ -21,9 +23,9 @@
    - Agile methodologies (Scrum)
    - ReadyAPI and Jira
 
-📚 I am committed to continuous learning and staying updated with the latest advancements in both software testing and data science. Embracing new technologies and tools is a key part of my approach to enhancing productivity and delivering high-quality solutions.
+📚 I am committed to continuous learning and staying updated with the latest advancements in both software testing and data engineer. Embracing new technologies and tools is a key part of my approach to enhancing productivity and delivering high-quality solutions.
 
-🌐 Beyond Java Testing, I am also delving into data science and analytics, with hands-on experience in Python, SQL, and PowerBI. This expanding skill set complements my full-stack knowledge and enables me to derive actionable insights from data, enhancing project outcomes and driving data-informed decisions.
+🌐 Beyond Java Testing, I am also delving into data engineering and analytics, with hands-on experience in Python, SQL, PySpark and PowerBI. This expanding skill set complements my full-stack knowledge and enables me to derive actionable insights from data, enhancing project outcomes and driving data-informed decisions.
 
 📫 If you have any questions, suggestions, or exciting projects to collaborate on, feel free to reach out. I’m open to new opportunities and enjoy connecting with fellow developers. Let’s build something amazing together!
 
