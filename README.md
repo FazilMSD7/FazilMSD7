@@ -2,17 +2,14 @@
 
 🚀 I specialize in ensuring the quality and reliability of applications, utilizing Java and related technologies. My role involves developing robust testing frameworks and driving automation to maintain high software standards.
 
-💼 Currently, I am a System Associate at Infosys, where I work alongside skilled teams to design, test, and refine cutting-edge software solutions. My expertise in quality assurance principles and methodologies allows me to contribute to delivering top-notch software.
+💼 Currently, I am a Seior Operations Executive at Infosys, where I work alongside skilled teams to design, test, and refine cutting-edge software solutions. My expertise in quality assurance principles and methodologies allows me to contribute to delivering top-notch software.
 
 🌟 In addition to my core SDET skills, I am actively expanding my knowledge in data engineering. I’m diving into topics such as:
    - SQL (including advanced SQL techniques)
    - Python
-   - PowerBI
    - PySpark
-   - Advanced Excel
-   - Numpy and Pandas
+   - Pandas
    - Microsoft Azure DE(Data Factory,Databricks,Synapse Analytics,Data Lake,Devops,Key Vault)
-   - Kafka, DBT
 
 🔧 My technical expertise includes:
    - Java SE development
