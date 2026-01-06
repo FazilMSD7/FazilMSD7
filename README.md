@@ -1,4 +1,4 @@
-👋 Hello there! I'm Muhammed Fazil, a passionate Software Development Engineer in Test (SDET) with 2.8 years of experience. ☕️
+👋 Hello there! I'm Muhammed Fazil, a passionate Software Development Engineer in Test (SDET) with 3 years of experience. ☕️
 
 🚀 I specialize in ensuring the quality and reliability of applications, utilizing Java and related technologies. My role involves developing robust testing frameworks and driving automation to maintain high software standards.
 
